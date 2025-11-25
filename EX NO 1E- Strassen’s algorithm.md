@@ -147,8 +147,8 @@ public class StrassenMatrix {
 }
 
 Program to implement Reverse a String
-Developed by: DINESH KUMARAA K
-Register Number: 212222220012
+Developed by: DHARSAN KUMAR R
+Register Number: 212223240028
 
 ```
 
